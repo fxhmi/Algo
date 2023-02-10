@@ -1,0 +1,145 @@
+WALKING TREATED AS A TRANSPORT MODE
+ABSTRACT
+Walking is viewed from many different perspectives, but lacks both informed advocacy groups and a unified policy treatment. Walking is treated in this paper as a full transport mode used by both genders. Significant gender differences are disguised by combining cycling and walking into a single NMT (non-motorised transport) mode. New data derived from Australian travel surveys is presented, and the relative importance of walking to other transport modes is illustrated in terms of the fractions of trips and of travel time.
+
+1. INTRODUCTION
+Walking is the most widespread mode of movement - but is not always treated as a full transport mode. 'Pedestrian' is the term used for the mode of transport. Pedestrians are rarely treated on the same level as vehicle-based modes1. Major factors influencing the treatment of travel modes are strong advocacy groups, information about the mode, its performance and impacts, and the people and groups affected.
+Many groups represent the handicapped and mobility constrained, few for pedestrians as a whole. Information about walking and pedestrians is therefore largely limited to areas where government bodies have been required to take an interest, or where commercial investments rely upon passing pedestrians. Only injury data is collected and made available on a regular basis. As a result, most pedestrian policies focus on reducing reported injuries rather than integrating walking into the treatment of mobility.
+Walking is an essential component of almost all trips, and determines physical access to facilities of all kinds. Public transport such as trains and buses require walking both for access and for movement within the transport vehicles themselves. Private transport also includes a walking component from house to vehicle and parking place to destination.
+What does a pedestrian trip comprise? To whom walking is most important? How does pedestrian activity compare with other modes of transport? How does one evaluate travel and access by foot in specific locations and for the walking stages of complex journeys?. Walking provides the initial access (and egress) to trips by other modes and is the unrecorded off-road section of trips that are recorded.
+This first access/last egress stage (and modal transfer stages) are critical to people with constraints on personal movement. Estimating mode choice models requires careful discrimination between on-vehicle and out of vehicle waiting/walking time but, once the
+
+model has been estimated, the walking information is often subsequently ignored.
+Unlike vehicle-based modes, walking trips are very difficult to define: Is a journey with travelling through or entirely within a (large) building a "trip"? In the case of a movement inside a small house this might be easy to decide, but when the trip is made along a converted street made over into a covered mall it is less easy to determine.
+Vehicle trips involve the use of a bicycle, car or other vehicle. It is this association that which defines the start, end, location and duration of a trip. Walking trips are usually defined by their location alone as the person always has the 'mode' in use for movement in all locations. This fits in with the policy emphasis on safety treatments of specific locations. Pedestrian travel choices and mobility decisions are often ignored or estimated from inadequate information.
+2. DEFINITIONS
+• Walking is the process of moving from one place to another by foot (but does not limit the location where this takes place).
+• A trip is a movement between two locations (but is usually taken to mean locations at least 400m apart)
+• A pedestrian is someone travelling by foot, usually in a public place or in or adjacent to a vehicular movement corridor.
+"Walking" is applied to travel by foot for exercise, enjoyment or to reach a specific location for some purpose. 'Power walkers' on the footpath, trail hikers and pedestrian movements inside and outside transport interchanges are all walking. Both walking and
+
+cycling are used by people as ends in themselves for their exercise and sightseeing benefits, and share the ability to use off-road rights of way as alternatives to the normal transport network.
+Trips of 400 m are a sensible distance to define a 'transport journey' - but only if the access and egress stages of vehicular journeys are assumed to have no impact on the vehicular travel2. People make real efforts to park less than 400 m (440 yards) from their destination, yet the disutility of that final 100-399 m (100-440 yards) is frequently ignored as a 'trip' for transport measurement purposes.
+Distance is not always a good measure for transport comparisons. A typical walking speed is 4-5 km/h (2.5-3 m.p.h) (see Section 4). 400 m (440 yards) translates to a 5 minute trip, which would be 1-3 km (0.6-2 miles) by car in an uncongested area.
+Pedestrian is a term which is used to describe people walking, usually in public places. In particular on or adjacent to public rights of way for vehicles.
+A person observed 'during the walking stages of a trip' seems to be somehow different from 'a pedestrian'. Dealing with walking as a transport mode is made more difficult, due to confusion between the concepts:
+• Mode = person (in walking), and;
+• Round trip = use of multiple modes by the same person.
+3. CONTEXTS
+ 
+Walking and pedestrians are considered important by a wide range of groups in different contexts, so that walking provisions are considered piecemeal, and not as part of a transport and trip end access system. These include:
+• Very high costs and vulnerability in road accidents
+• Traffic light pedestrian phases and road crossings
+• Access by aged, disabled and children
+• People flows on footpaths and in malls and transport interchanges
+• Predictions of passing trade by foot for retail siting and valuation
+• Health, recreation and exercise
+• V aluation of waiting and walking times
+• Segregated NMT movement networks
+• Parking location, pricing and choice
+• Provision of activity in public areas as a security measure
+Planners an environmental designers are concerned with the social and commercial success of a pedestrianised space and the factors that make it attractive are frequently measured by shop rentals and the levels of pedestrian activity over time.
+Traffic policies emphasise segregation of pedestrians from traffic as a measure to reduce
+
+injuries, and value the benefits in these terms. Traffic design requires pedestrian crossings to be provided and used. Designers need to know how far people will divert to use a crossing or a bridge, what speed they normally walk at, how long they will wait for a pedestrian light phase without jaywalking, and how quickly they will cross. Transport planning often recognises walking and waiting time as an element in mode choice, but rarely takes a close look at the walking trips themselves except when they influence the 'major' mode choice decision.
+To what extent can walking substitute for motorised transport movements? What the effects on different groups of altering the relative attractiveness of motorised and non- motorised modes? These questions require a 'transport' view of walking.
+The assumption that travel is undertaken simply to get to the destination is far less convincing for NMT (non motorised travel) than it is for motorised modes. Tourist and sightseeing travel occurs on motorised modes, but exercise, health and recreation play an important part when bicycles and walking are involved. Environmental contributions, exercise and health are all factors in NMT travel.
+Australian transportation surveys (1) show that both walking and bicycle participation rates tend to decrease with age for adults. However, if recreational and health participation are examined, US evidence shows
+
+(2)
+cycling as age increases (Fig. 1).
+The transportation aspects of walking and pedestrian movements can be examined using transportation survey data, and relevant results of such analyses are given in the following sections. Australian data for Canberra in 1975 and Launceston in 1976
+that walking rises in importance relative to
+
+(1)
+contained only 12-14% of non-motorised trips undertaken solely for exercise or recreational purposes.
+4. TRAVEL SPEED
+Typical journey speeds by NMT modes are not widely quoted, and it is useful to place each of the modes in a consistent context. Table 1 provides mean travel speeds over the year for both males and females in Australia.
+The values in Table 1 are derived from the 1986 Federal Office of Road Safety National
+
+Survey of Day to Day Travel3, which covered travel by 18,000 people over eight years old sampled from across the whole of Australia. The pedestrian trips were of undefined length in the survey instrument, and the overall values of mean speed provide a broad indication of the relative usage of time and distance covered by the two major NMT modes.
+These figures are in surprisingly good agreement with detailed studies of pedestrian flows on footpaths. 4.7 km/hr (2.9 m.p.h.) is a commonly observed median value for movement
+in uncongested areas (4, 5, 6,7, 8) .
+Fig. 2 shows the effect of age. The elderly walk slowly, but mean walking speeds are surprisingly stable by age. Females walk slower than males at all ages.
+People living in larger cities tend to walk faster than those living in small cities
+
+. This study also confirmed that age, sex and weather conditions affected walking speeds in Australia and the UK.
+5. SAFETY, SECURITY AND CHOICE
+Analysis distinguishing between walking trips and the waiting time for other transport modes is often done, and revealed preferences show different values of time for these two activities of pedestrians. However, motor vehicle - pedestrian crashes are both severe and costly. Records of such incidents are perhaps the most reliable and widely available information on pedestrian activity made regularly available. In a transport sense the
+(9)
+
+determinants of walking as a travel mode include personal security and perceptions of risk rather than the vulnerability to traffic. The time (and effort) required to walk is also a significant component of any personal travel time budget. This sense of personal security is a major factor in streetscape design and activity levels in pedestrian areas, especially for children, women and the elderly. Walking at night is a specific concern of the elderly, and has been shown to be significantly greater in the US amongst urban than rural dwellers
+.
+Pedestrian activity in mall areas is undertaken for a number of reasons, including shopping, exercise and sociability. However the feeling of personal security is an important element in this process
+(10)
+
+. There is a rising flow of studies of the sociology of pedestrians and pedestrian behaviour which is pertinent to predicting pedestrian behaviour, location choice and the characteristics of successful pedestrian area
+design
+(11)
+
+.
+Pedestrians perceptions of safety have a strong gender element. Women have valid concerns about walking unaccompanied in urban centres and parks
+(12)
+
+, (an active walking issue) and in being present unaccompanied in transport terminals in the evening and at night (in addition to pedestrian/waiting time issues). Personal security is now an issue in the use of public
+transport, more in terms of rail than of bus travel, but significant in both cases.
+Walking as a social, recreational or health occupation is not universally popular: many of those who walk most like it least, generally as a function of constrained resources and means of mobility of the elderly
+(13)
+
+.
+These customer perspectives of personal safety and security as mobility constraints are common to several countries, and contrast with the road safety/crash oriented view of pedestrian-vehicle conflicts and accidents as the issue requiring most attention. Both safety issues need attention, but the road vehicle injury area refers mainly to costs and actions familiar to traffic engineering, while the personal concerns relate to travel demand estimation and time, mode, route and location choice decisions by individuals in various categories and to a different group of policy makers.
+There have been several studies of walking and cycling on road footpaths which have
+(14,15)
+
+yielded travel exposure values for both walking on footpaths and for cycling for children
+. This type of study does not affect the significance or level of walking in overall transportation terms, and collects no information
+on the travel choices available.
+6. WALKING IN AUSTRALIA
+Treating walking as just another transport mode requires some care. The discussion of walking speeds suggests that travel time rather than distance or trip frequencies should be considered. The 1986 ORS Study (3) contains information only on people of nine years of age or older. This has a greater effect on walking than on any other mode, as
+(13)
+
+walking is of great importance to young people. Only walk trips of 400m (440 yards) or more are reported.
+Fig. 3 shows the trip rates/day (the full weekday plus weekend period) by sex and status. Females report more walking than males in every category but part time work and unemployed. Students display the highest levels of walking, and retired people the lowest.
+These trip rates are Standard Population Trip Rates. SPTR4 is defined as the number of trips by a group divided by the number in that group. Consequently SPTR does not show the levels of walking activity undertaken by people who actually do walk, and the values are diluted by the numbers of people who do not. This distinction between participation (ie. at least one walk trip) and activity rate (ie. the number of trips/day made by those reporting at least one trip) has been shown to be important in person travel analysis
+(1)
+
+. Expressing walking time as a percentage of total daily travel time goes some way to correct this effect, and give a clearer view of the
+importance of walking to people of each sex and in each age group.
+Fig. 4 shows that females spend significantly more time walking than males at all ages. Walking time is 10-20% of all travel for females of all ages, with a mean value of ~15. Males do less walking at about ~10%. The omission of people below nine years of age, and the open ended definition of a 'walking trip' ensure that these are conservative values.
+Fig. 5 shows the numbers of walking trips in Australia in 1985-6 as a function of age and sex for people of nine years of age and over. Females still walk more than males - but walking is a substantial fraction of all trips made across the whole range of age and for both sexes.
+The combination of walking and cycling (Fig. 6) shows a closer match between the sexes, as cycling is more popular with males. This might appear to favour treating NMT as a mode, but the strong gender differences are disguised by such aggregation.
+Walking appears to be more important in Sydney (the largest and densest metropolitan area) than in Australia as a whole. Fig. 7 shows the differences between weekday and weekend travel as a percentage of all trips reported. It is difficult to ignore the high
+
+percentage of walking trips in both periods. Even if the lowest values are used, walking comprises 20% of all reported trips. The percentages of travel time in Sydney spent walking in 1981 are shown in Fig. 8, and may be compared with the 1986 Nationwide figures in Fig. 4. The importance of walking time in Sydney on weekdays is greater than for the nationwide figures, which are more closely comparable to the weekend Sydney ratios.
+7. SHOPPING
+One area where walking is crucial is in shopping trips. These are increasingly made within major enclosed centres or pedestrian-only malls.
+The length of walking trips made in the course of shopping trips are strongly affected by any omission of pedestrian travel within such enclosed areas - and such movements are not sought in transport surveys, only in activity surveys. Most transportation and traffic analyses concentrate on peak hour work-related travel, and it is necessary to shift this emphasis to understand pedestrian travel better.
+The 1986 ORS Study (3) showed shopping second only to travel to work in importance in terms of the numbers of trips made, Shopping was 57% the number of trips to work for males and 157% for females. The workforce participation rates for females were considerably lower than for males, but the relative importance of the contribution of shopping trips to overall travel by gender was certainly considerably higher for females than males in 1986.
+The pedestrian component of shopping trips is important for several reasons:
+• Impacts on accessibility
+
+• Demands for car parking
+• Constraints on luggage carrying
+• Concentrations of pedestrian flows
+• Vehicle-pedestrian conflicts
+The individual stages within a shopping trip are frequently lumped into a single trip, and may contain personal business and service calls. The movements between retail outlets, personal business and services within an area are usually by foot within a shopping area of reasonable scale. Models of such trips are rare (16).
+Such complex trips are often non-home based, and are frequently under-reported. They play a significant and increasing role in personal travel, and shopping and personal business travel has risen at several times the rate of travel to work trips in recent years in both France and the US. As these travel purposes continue to increase in importance the detailed structure of the shopping and personal business trips become more significant.
+The high density of daytime pedestrian trips in city commercial centres offers the opportunity of estimating the concentrations of pedestrian journeys as a function of commercial and retail shopping space in the area, This was done in Milwaukee in the early 1970's (17). The resulting pedestrian flow equations for non and overall daytime average pedestrian flows both showed the highest weighting to retail commercial floor area, followed by office space, including banks and other personal business destinations.
+Those who walked to the city centres of both Calgary (a large city with only 2% walking to work) and the small city centre of Halifax (where about 10% walk to work)
+
+) then went on to walk a very considerably considerably greater distance (600 m or 650 yards) within the centre as those arriving by other modes (225 m (250 yards) by bus and 325 m (360 yards) by car). The influence of
+walking as a mode of choice is clearly significant.
+8. REFORMULATING MODELS OF PEDESTRIAN MOVEMENT
+The treatment of pedestrian travel as a variant of vehicle flow modelling is well established, and levels of service for sidewalks and pedestrian routes form a useful section of the standard transport engineering handbooks (19). This aspect of pedestrian travel is the
+(18
+ 
+equivalent of highway capacity analysis and traffic management. The concentration on the interference between pedestrian movements and vehicle movements over shared space such as roads is treated again as a traffic management and safety problem.
+Analysis of walking movements as pedestrian travel by a full travel mode requires a greater concentration on route and destination choice, and on assessing the quality of pedestrian routes and the influence of factors such as environmental quality, visual design and shopfront activity attractiveness to estimate where who will go and how they will travel to and around the areas concerned.
+This approach would bring the economic importance of access by foot into the transport analysis mode and destination choice approach, and give a greater transport planning weight to the nonwork (shopping in particular) trips that now comfortably exceed work trips in number.
+Collection and analysis of large scale pedestrian movements and route choice is beginning to occur. This type of data should now be extended to treat pedestrian stop frequency and destination choices using stated and revealed preference analysis now proving so effective for other modes of transport (20.
+9. CONCLUSIONS
+Pedestrian behaviour, demand and policy are poorly integrated. Social space design and pedestrian movements as a special form of traffic flow do not need to consider overall needs and determinants of personal travel. Traffic conflict issues are consistently addressed, but the impacts of pedestrian movements and constraints on specific groups are less well monitored or understood, and the effective tools of travel choice analysis are still only rarely applied.
+
+Walking is a major transport mode, of crucial importance to several large groups in the community and a contributor to reducing motor vehicle emissions. It is not clear who is responsible for the planning and provision of services to these groups, and by default it is the road safety area that has paid most attention and produce most of the public information. The contribution of non-motorised travel to fitness and maintaining elderly mobility should also be added (21) to mobility and accessibility to achieve balanced evaluations.
+The numbers and proportions of trips to, from and within retail and personal services areas are increasing around the world. Design within the retail and terminal areas is now likely to influence both mode and frequency of travel and activity in these growing areas of personal travel activity.
+Walking and pedestrians need better understanding and information, and more consistent policies if we are to maintain mobility and accessibility for the community as a whole. It is clear that a considerable amount of movement takes place which is not counted in the assessments of travel, and better understanding of these non-motorised movements will permit more balanced allocations of resources and improvements to overall access and mobility. This has already occurred to some extent for mobility handicapped, but the rest of the population makes up a considerably larger group whose interests should not be ignored.
